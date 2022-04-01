@@ -1,0 +1,14 @@
+{
+  "name": "aws-lambda-env-variables",
+  "version": "1.0.0",
+  "description": "Expose the AWS Lambda environment variables to the Env type",
+  "main": "dist/index.js",
+  "types": "index.d.ts",
+  "author": "Matthew Wyskiel",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^17.0.23",
+    "tslib": "^2.3.1",
+    "typescript": "^4.6.3"
+  }
+}
